@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @blessing-mira
-- 👀 I’m a Network interested in DevOps
+- 👋 Hi, I’m @blessing-mira.
+- 👀 I’m a Network Engineer, interested in DevOps.
 - 🌱 I’m currently learning AWS,Phython.
 - 💞️ I’m looking to collaborate on people interested in infrastructure as code.
 - 📫 You can reach me on Linkedln via linkedin.com/in/blessing-okpararuekwe-82231615b
